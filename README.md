@@ -4,7 +4,7 @@ training exercise
 
 ## Installation
 
-ccrystal build --release src/utf8_code_unit_to_codepoint.cr -o convert
+crystal build --release src/utf8_code_unit_to_codepoint.cr -o convert
 
 ## Usage
 
